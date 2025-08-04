@@ -1,0 +1,11 @@
+# 가상환경, 캐시
+dlvenv/
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints (선택)
+.ipynb_checkpoints/
+
+# 시스템 파일 (선택)
+.DS_Store
+Thumbs.db
